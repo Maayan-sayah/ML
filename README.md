@@ -5,3 +5,4 @@ Machine learning is a field that deals with the development of algorithms design
 
 In this program we solve the problam with 3 algorithm: Preceptorn, passive-agresive anf KNN. 
 
+[report.pdf](https://github.com/Maayan-sayah/ML--preceptron-passive-agresuve-and-KNN/files/8552368/report.pdf)
